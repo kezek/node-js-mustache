@@ -1,0 +1,16 @@
+{
+  "name": "mustache",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "connect"   : "*",
+    "mustache"  : "*"
+  },
+  "repository": "",
+  "author": "Andrei",
+  "license": "BSD"
+}
